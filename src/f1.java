@@ -8,6 +8,7 @@ public class f1 {
             System.out.println(Arrays.toString(l1.list));
             l1.insert(42);
             System.out.println(Arrays.toString(l1.list));
+            System.out.println(Arrays.toString(l1.list));
         }
 
         private void insert(int i) {
